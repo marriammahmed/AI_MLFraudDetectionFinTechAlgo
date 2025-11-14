@@ -81,7 +81,6 @@ Confusion Matrix: <br/>
 - seaborn  
 
 ## 📦 Project Components (Files Included)
-- **Project Report (PDF)** – full explanation of methodology, results, and analysis  
 - **Dataset 1:** Credit Card Fraud Dataset (working dataset)  
 - **Dataset 2:** Failed synthetic/random dataset (no learnable pattern)  
 - **Notebook 1:** Credit Card Fraud Detection (full pipeline + visualizations)  
