@@ -12,6 +12,12 @@ Due to the dataset’s design, most features already separate frauds very clearl
 
 These adjustments reduced model performance to around **70–80% ROC-AUC**, which is more realistic for actual fraud detection systems.
 
+The full **Credit Card Fraud Detection dataset** from Kaggle is too large to include directly in this repository. To run the notebooks, follow these steps:
+
+1. Download the dataset from Kaggle: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
+2. Place the file in the `data/` folder of this repository with the name `creditcard.csv`.
+
+
 ## ⚙️ Models Used
 Two models were tested:
 - Logistic Regression (baseline)
