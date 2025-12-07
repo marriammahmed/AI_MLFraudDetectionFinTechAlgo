@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection: A Realistic ML Pipeline
+# Credit Card Fraud Detection: Application of ML and cybersecurity in FinTech 
 
 A machine learning project demonstrating fraud detection with realistic performance metrics, proper handling of class imbalance, and critical analysis of model limitations. This project showcases end-to-end ML workflow including data preprocessing, model training, evaluation, and business impact analysis.
 
