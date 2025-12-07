@@ -14,7 +14,7 @@ This project explores credit card fraud detection using the publicly available K
 
 ## 📁 Dataset
 
-**Source:** [Credit Card Fraud Detection Dataset](https://www.kaggle.com/code/gauravduttakiit/creditcard-fraud-detection-by-logistic-regression/input?select=creditcard.csv) from Kaggle
+**Source:** [Credit Card Fraud Detection Dataset](https://www.kaggle.com/code/gauravduttakiit/creditcard-fraud-detection-by-logistic-regression) from Kaggle
 
 **Description:** 
 - Transactions made by European cardholders in September 2013
@@ -24,7 +24,7 @@ This project explores credit card fraud detection using the publicly available K
 - Binary classification: Class 0 (legitimate), Class 1 (fraud)
 
 **Setup Instructions:**
-1. Download the dataset from [Kaggle](https://www.kaggle.com/code/gauravduttakiit/creditcard-fraud-detection-by-logistic-regression/input?select=creditcard.csv)
+1. Download the dataset from [Kaggle](https://www.kaggle.com/code/gauravduttakiit/creditcard-fraud-detection-by-logistic-regression)
 2. Place `creditcard.csv` in the project root directory
 3. Run the Jupyter notebook
 
@@ -282,7 +282,7 @@ pip install -r requirements.txt
 ```
 
 3. **Download the dataset**
-- Visit [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/code/gauravduttakiit/creditcard-fraud-detection-by-logistic-regression/input?select=creditcard.csv)
+- Visit [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/code/gauravduttakiit/creditcard-fraud-detection-by-logistic-regression)
 - Download `creditcard.csv`
 - Place in project root directory
 
@@ -307,7 +307,7 @@ jupyter notebook creditcard-2.ipynb
 
 ## 📚 References & Further Reading
 
-- Original Dataset: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/code/gauravduttakiit/creditcard-fraud-detection-by-logistic-regression/input?select=creditcard.csv)
+- Original Dataset: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/code/gauravduttakiit/creditcard-fraud-detection-by-logistic-regression)
 - SMOTE Paper: Chawla et al. (2002) "SMOTE: Synthetic Minority Over-sampling Technique"
 - Imbalanced Classification Guide: [Imbalanced-learn Documentation](https://imbalanced-learn.org/)
 - Cost-Sensitive Learning: Elkan (2001) "The Foundations of Cost-Sensitive Learning"
