@@ -232,7 +232,7 @@ I also tested a synthetic transaction dataset that **completely failed** to prod
 
 **Lesson Learned:** Machine learning models can only learn patterns that actually exist in the data. Garbage in = garbage out, no matter how sophisticated your model is.
 
-This failed experiment is included in the repository as `failed_dataset_experiment.ipynb` as a teaching example.
+This failed experiment is included in the repository as `FraudDetection.ipynb` as a teaching example.
 
 ## 🖼️ Sample Visualizations
 
@@ -263,17 +263,16 @@ This failed experiment is included in the repository as `failed_dataset_experime
 ```
 credit-card-fraud-detection/
 ├── README.md
-├── fraud_detection.ipynb          # Main analysis notebook
-├── failed_dataset_experiment.ipynb # Negative example
-├── creditcard.csv                  # Dataset (download separately)
-└── requirements.txt                # Python dependencies
+├── fraud_detection.ipynb          # Negative example
+├── fraud_detection.csv
+├── creditcard-2.ipynb           # Dataset (download separately)            
 ```
 
 ## 🚀 How to Run
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/marriammahmed/AI_MLFraudDetectionFinTechAlgo.git
 cd credit-card-fraud-detection
 ```
 
@@ -289,7 +288,7 @@ pip install -r requirements.txt
 
 4. **Run the notebook**
 ```bash
-jupyter notebook fraud_detection.ipynb
+jupyter notebook creditcard-2.ipynb
 ```
 
 ## 🎓 Key Takeaways
@@ -313,22 +312,6 @@ jupyter notebook fraud_detection.ipynb
 - Imbalanced Classification Guide: [Imbalanced-learn Documentation](https://imbalanced-learn.org/)
 - Cost-Sensitive Learning: Elkan (2001) "The Foundations of Cost-Sensitive Learning"
 
-## 📝 License
 
-This project is open source and available under the MIT License.
 
-## 👤 Author
-
-**Marriam Hatem**
-
-This project was created as part of my machine learning portfolio to demonstrate:
-- End-to-end ML pipeline development
-- Critical thinking about model performance
-- Understanding of business constraints
-- Honest evaluation of limitations
-
-Connect with me: [Add your LinkedIn/GitHub/Portfolio links]
-
----
-
-**Note:** This is an educational project using publicly available data. Real production fraud detection systems require significantly more sophisticated approaches, larger datasets, continuous monitoring, and integration with business operations.
+**Note:** This is an educational project using publicly available data. Real production fraud detection systems require significantly more sophisticated approaches, larger datasets, continuous monitoring, and integration with business operations. AI tools where used during the course of this project for time efficiency
